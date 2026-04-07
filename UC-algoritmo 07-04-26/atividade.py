@@ -1,6 +1,6 @@
-P = int(input("Dê a quantidade de P: "))
-D = int(input("Dê a quantidade de D: "))
-B = int(input("Dê a quantidade de B: "))
+P = int(input())
+D = int(input())
+B = int(input())
 
 total = P*1 + D*2 + B*3
 
